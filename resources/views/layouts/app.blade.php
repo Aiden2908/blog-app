@@ -12,7 +12,12 @@
     <body>
         @include('inc.navbar');
         <div class="container">
+            @include('inc.messages')
             @yield('app-content');
         </div>
     </body>
+    <script src="/laravel-ckeditor-4.7.2/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace( 'article-ckeditor' );
+    </script>
 </html>
