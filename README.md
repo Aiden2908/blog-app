@@ -1,4 +1,4 @@
-# Blog Web application
+# Blog Web application - Laravel + Bootstrap
 
 ## Getting started
 
