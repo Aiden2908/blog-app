@@ -27,3 +27,9 @@ php artisan key:generate
 A blog web application where users , register and log in and perform <strong>CRUD</strong> operations such as creating, editing, updated and deleting posts. 
 
 ![](readmeImages/image-20201122135527034.png)
+
+![](readmeImages/image-20201122135354966.png)
+
+![](readmeImages/image-20201122135847594.png)
+
+![](readmeImages/image-20201122140002372.png)
