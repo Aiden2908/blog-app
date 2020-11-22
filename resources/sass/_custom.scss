@@ -1,4 +1,55 @@
 //
+nav {
+    a {
+        background: $gradient-color;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+}
+
+h1,
+h2,
+h3 {
+    color: $title-color;
+}
+
+h4,
+h5,
+h6 {
+    color: $text-color;
+}
+
+.pagination {
+    a {
+        background: $text-color;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+}
+
+.card {
+    a {
+        color: $title-color;
+    }
+}
+
 body {
     font-family: 'Nunito' !important;
+}
+
+.p-link {
+    color: blue;
+}
+
+.p-4 {
+    display: block !important;
+}
+
+small {
+    span {
+        color: darkblue;
+        font-weight: bold;
+    }
 }
